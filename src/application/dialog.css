@@ -1,0 +1,27 @@
+.dialog-pane{
+	 -fx-text-fill: 'purple';
+	 -fx-background-color: 'grey'; 
+	 -fx-font-size: 16px;
+     -fx-font-weight: bold;
+}
+.label {
+    -fx-text-fill: 'lightblue';
+    -fx-background-color: 'grey';
+   
+}
+.text-field {
+	 -fx-text-fill: 'purple';
+	 -fx-background-color: 'lightblue';
+}
+.button{
+	-fx-background-color: 'lightblue';
+	-fx-text-fill: 'grey';
+}
+.button:hover{
+	-fx-background-color: 'lightblue';
+	-fx-text-fill: 'purple';
+}
+.button:pressed{
+	-fx-background-color: 'purple';
+	-fx-text-fill: 'lightblue';
+}
